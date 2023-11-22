@@ -7,7 +7,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 
 // 예제 13.26
 // 패스워드는 암호화해서 저장해야하기 때문
-@Configuration 
+@Configuration
 public class PasswordEncoderConfiguration {
 
     @Bean
